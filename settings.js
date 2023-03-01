@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Defan'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://tololkusyan:KFcY2Jz95fNlCpsu@cluster0.fn5jrbr.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "anabotmd@gail.com" //email
 global.email_password = "Kusd3fan" //application password email
